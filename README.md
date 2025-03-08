@@ -51,7 +51,7 @@ A modern, responsive web application for managing Docker-related tasks with a be
    docker-compose up -d
    ```
 
-3. Access the application:
+3. Access the application (after deploying in your docker):
    - Frontend: http://localhost:3000
    - Backend API: http://localhost:5000
 
